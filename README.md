@@ -6,14 +6,17 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/Deepansusingh/">
-    <img src="https://img.shields.io/badge/dynamic/json?label=LeetCode%20Solved&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/Deepansusingh&color=FFA116&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/Deepansusingh/">
-    <img src="https://img.shields.io/badge/dynamic/json?label=LeetCode%20Rating&query=rating&url=https://leetcode-stats-api.herokuapp.com/Deepansusingh&color=blue&logo=leetcode&logoColor=white" />
+    <img src="https://leetcard.jacoblin.cool/Deepansusingh?theme=dark&font=Baloo&ext=contest" />
   </a>
 </p>
-  <a href="https://www.linkedin.com/in/deepansu-singh-1a83b627a/"><img src="https://img.shields.io/badge/LinkedIn-Deepansu%20Singh-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="/cdn-cgi/l/email-protection#f195949481909f828482989f9699c8c5c4c1b1969c90989ddf929e9c"><img src="https://img.shields.io/badge/Email-deepansusingh9450%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/deepansu-singh-1a83b627a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Deepansu%20Singh-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:deepansusingh9450@gmail.com">
+    <img src="https://img.shields.io/badge/Email-deepansusingh9450%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -24,7 +27,7 @@ I'm a final-year Computer Science student who has spent the last year building p
 
 Currently interning at **QuriousBit Games** as an Associate Software Engineer, where I work on TypeScript client applications, real-time telemetry pipelines, and React dashboards.
 
-I solve problems every day on LeetCode — 846 solved, 352 active days, and counting.
+I solve problems every day on LeetCode — and consistently improve my contest performance.
 
 ---
 
@@ -55,31 +58,24 @@ I solve problems every day on LeetCode — 846 solved, 352 active days, and coun
 ## Featured projects
 
 ### [QuickBite — Food Ordering Platform](https://github.com/deeP0159/QuickBite)
-A responsive food ordering web app integrated with the Swiggy API for real-time restaurant and menu data.
+A responsive food ordering web app integrated with the Swiggy API for real-time restaurant and menu data.  
 `React` `Tailwind CSS` `Swiggy API`
 
 ### [Shortify — URL Shortening Service](https://github.com/deeP0159/shortify)
-A lightweight URL shortener built in Go with a RESTful API, SQLite storage, and local web server for redirection.
+A lightweight URL shortener built in Go with a RESTful API, SQLite storage, and local web server for redirection.  
 `Go` `REST API` `SQLite`
-
----
-
-## DSA stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/deeP0159/deeP0159/main/leetcode-stats.png" alt="LeetCode stats — 846 solved · 1684 rating · Top 14.46%" width="800"/>
-</p>
 
 ---
 
 ## Current internship highlights
 
-- Built TypeScript client apps supporting **300K+ users** with 40% fewer crashes and 38% faster load times
-- Designed a real-time telemetry pipeline for user interaction tracking and analytics
-- Built an automated validation framework that reduced manual QA from days to minutes
-- Developed React dashboards with RESTful API integration for live system metrics
+- Built TypeScript client apps supporting **300K+ users** with 40% fewer crashes and 38% faster load times  
+- Designed a real-time telemetry pipeline for user interaction tracking and analytics  
+- Built an automated validation framework that reduced manual QA from days to minutes  
+- Developed React dashboards with RESTful API integration for live system metrics  
 
 ---
 
 <p align="center">
-  <i>Open to SDE full-time roles �
+  <i>Open to SDE full-time roles 🚀</i>
+</p>
